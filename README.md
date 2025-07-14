@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m Ken, a passionate full-stack developer who loves turning ideas into code.<br>📚 I'm currently learning and growing in the tech industry, constantly exploring new technologies and best practices to sharpen my skills.<br>🎮 In my free time, I enjoy gaming — it's my way of relaxing and staying inspired by interactive design and immersive experiences.<br>🚀 I believe in continuous learning, collaboration, and building solutions that make a difference.
+💻 I’m Ken, a passionate full-stack developer who loves turning ideas into code.<br>📚 I'm currently learning and growing in the tech industry, constantly exploring new technologies and best practices to sharpen my skills.<br>🎮 In my free time, I enjoy gaming. it's my way of relaxing and staying inspired by interactive design and immersive experiences.<br>🚀 I believe in continuous learning, collaboration, and building solutions that make a difference.
 
 
 ## 🌐 Socials:
