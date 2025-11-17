@@ -16,6 +16,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src="https://raw.githubusercontent.com/leuke22/leuke22/output/snake.svg" alt="Snake animation" />
-
-###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
